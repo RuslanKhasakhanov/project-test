@@ -1,2 +1,2 @@
-a = 1 + 6
-print(a)
+b = 1 + 6
+print(b * 2)
